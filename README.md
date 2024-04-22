@@ -94,8 +94,15 @@ print(y_prednew)
 ```
 
 ## Output:
-![image](https://github.com/Abinavsankar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119103734/ea5118b2-35fc-49ac-86d6-71ef09e2763b)
+![image](https://github.com/Abinavsankar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119103734/8d08f4a9-7a2b-4f64-a304-0619c3af8d2c)
 
+![image](https://github.com/Abinavsankar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119103734/c05e26bd-0633-40f8-b015-787fdbbdb18f)
+
+![image](https://github.com/Abinavsankar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119103734/bf525dc9-e1bc-4c0a-a478-036062dae53a)
+
+![image](https://github.com/Abinavsankar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119103734/a1a318eb-5d2c-4c31-a437-77ee607ee78b)
+
+![image](https://github.com/Abinavsankar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119103734/016d4df5-cebf-4868-9074-8048a048e6e3)
 
 
 ## Result:
